@@ -1,7 +1,5 @@
 import pandas as pd
 import subprocess
-from tqdm import tqdm 
-from typing import Union
 import pathlib
 
 
